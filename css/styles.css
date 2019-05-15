@@ -1,0 +1,17 @@
+body{
+  background: #777;
+  height: 100vh;
+  place-items: center;
+  
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+}
+ .card{
+   background: white;
+   border-radius: 1rem;
+   padding: 2rem;
+   box-shadow: 4px 4px 12px 4px;
+   
+ }
