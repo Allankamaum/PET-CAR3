@@ -1,0 +1,78 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#sec1 {
+  background: url(https://www.petsandmoneysummit.com/sites/default/files/styles/cover_image_full/public/event_cover_images/pets_and_money_hero_image_-_minus_guinea.png?itok=JA-jklht);
+  height:830px;
+  /* padding: 350px; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+header {
+  background: #F0F3F4;
+}
+
+.h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.heading {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 10px ;
+}
+
+nav li {
+  display: inline-block;
+}
+
+.welcome-txt {
+  padding: 80px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 300%;
+  color: #9B59B6;
+}
+.card{
+  width:25%;
+}
+/* .seven img {
+  width:20%;
+  height: 0%;
+}
+
+.icon1{
+  width:5%;
+  height: 0%;
+} */
+
+.row{
+  display:flex;
+  flex-direction: row;
+}
+.card-body{
+  text-align: center;
+}
+.image{
+  width:20%;
+  height:20%;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
