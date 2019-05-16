@@ -1,0 +1,117 @@
+#cont2 {
+  width: 70%;
+  margin: 0 , 0;
+  /* height: 10px; */
+}
+.cont2{
+  width:100%;
+}
+
+#sec1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+header {
+  background: #F0F3F4;
+}
+
+.h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.heading {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 10px;
+  justify-content: space-around;
+}
+
+nav li {
+  font-size: 13px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.welcome-txt {
+  padding: 80px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 300%;
+  color: #9B59B6;
+}
+
+.card {
+  width: 25%;
+}
+
+/* .seven img {
+  width:20%;
+  height: 0%;
+}
+
+.icon1{
+  width:5%;
+  height: 0%;
+} */
+.d-block {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.image {
+  width: 20%;
+  height: 20%;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+.cont1{
+margin: 0px, 0px,
+}
+.carousel-caption{
+  font-family: 'Shadows Into Light', cursive;
+  font-size:30px;
+  padding-bottom: 10%;
+}
+.h3-responsive{
+  margin-bottom:20%;
+}
+a:{
+  color: white;
+}
+#talking{
+ width:
+}
+.footer{
+  text-align: center;
+  justify-content:space-around;
+  /* margin:0px; */
+}
+.though{
+  justify-content: space-around;
+  margin: 2%;
+}
