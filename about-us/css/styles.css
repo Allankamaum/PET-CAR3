@@ -1,0 +1,90 @@
+body {
+  /* background-image: url("http://www.baltana.com/files/wallpapers-16/4K-Avengers-Endgame-Desktop-HD-Wallpapers-40030.jpg"); */
+}
+
+.imgs {
+
+  text-align: center;
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+}
+.btn {
+  background-color: gold;
+  position: absolute;
+ top: 8px;
+ left: 16px;
+}
+.paragraph {
+  text-align: center;
+
+}
+.header1 {
+  font-family: 'Akronim', cursive;
+  color:red;
+}
+p {
+  font-family: 'Permanent Marker', cursive;
+  color:gold;
+}
+
+.social-icons {
+  text-align: center;
+  /* margin-left: 25%; */
+}
+.header2 {
+  font-family: 'Anton', sans-serif;
+  color:silver;
+
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  color: red;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: purple;
+  color: red;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: red;
+}
+.ig {
+  width: 50px;
+  height:50px;
+
+}
+header::after {
+ content: "";
+ clear: both;
+ display: table;
+}
+header {
+ background: #F0F3F4;
+}
+nav {
+ text-align: center;
+}
+
+nav ul {
+ list-style: none;
+ margin: 10px;
+}
+
+nav li {
+ display: inline-block;
+}

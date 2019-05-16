@@ -1,0 +1,167 @@
+body {
+  background-color: white;
+  margin-right:150px;
+}
+.container {
+  margin-right: 150px;
+
+}
+img {
+  width:270px;
+  height:200px;
+}
+.pics img {
+  width:270px;
+  height:270px;
+}
+#food {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ margin-left: 50px;
+ text-align: center;
+}
+.header2 {
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  text-shadow: red 2px 5px;
+  font-size: 70px;
+  text-decoration: underline;
+
+}
+.foodheader {
+  font-family: 'Bangers', cursive;
+  color: gold;
+}
+.header3 {
+  font-family: 'Bangers', cursive;
+  color:gold;
+}
+.header6 {
+  font-family: 'Bangers', cursive;
+  color:gold;
+}
+h4 {
+  font-family: 'Akronim', cursive;
+  color:gold;
+}
+h5 {
+  font-family: 'Modak', cursive;
+  color: pink;
+}
+.pp {
+  font-family: 'Orbitron', sans-serif;
+  color: skyblue;
+}
+#health p {
+  color: skyblue;
+  font-family: 'Indie Flower', cursive;
+}
+.list {
+  text-align: left;
+}
+#health {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ margin-left: 50px;
+ text-align: center;
+}
+.one {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ text-align: center;
+}
+.two {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ text-align: center;
+}
+.three {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ text-align: center;
+}
+#healthy {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ margin-left: 50px;
+ text-align: center;
+}
+.four {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ text-align: center;
+}
+.five {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ text-align: center;
+}
+.six {
+  margin: 10px;
+ padding: 10px;
+ background-color: rgba(0, 0, 0, 0.5);
+ border-radius: 15px;
+ box-shadow: 3px 3px 11px #000000;
+ text-align: center;
+}
+#healthy p {
+  font-family: 'Indie Flower', cursive;
+  color:skyblue;
+}
+.pp {
+  display: none;
+}
+.ppp {
+  display: none;
+}
+.pppp {
+  display: none;
+}
+.social-icons {
+  text-align: center;
+  /* margin-left: 25%; */
+}
+.ig {
+  width: 50px;
+  height:50px;
+
+}
+.t {
+  width: 50px;
+  height:50px;
+
+}
+.fb {
+  width: 50px;
+  height:50px;
+
+}
+.pt {
+  width: 50px;
+  height:50px;
+
+}

@@ -1,0 +1,211 @@
+/* Add a black background color to the top navigation */
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+
+/* Style the links inside the navigation bar */
+
+.topnav a {
+    float: left;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+/* Change the color of links on hover */
+
+.topnav a:hover {
+    background-color: red;
+    color: black;
+}
+
+
+/* Add a color to the active/current link */
+
+.topnav a.active {
+    background-color: purple;
+    color: black;
+}
+
+
+/* body {
+    background-repeat: no-repeat;
+} */
+
+
+/* body {
+    background-image: url(https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+} */
+
+/* .container {
+
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 120px;
+    text-align: center;
+    color: purple;
+} */
+
+
+.form {
+    padding: 100px;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+    color: purple;
+    font-family: 'Baloo Bhai', cursive;
+}
+
+#fname,
+#lname,
+#email,
+#password {
+    color: blueviolet
+}
+
+
+/* #submit {
+    background-color: pink;
+    color: white;
+    cursor: pointer;
+}
+
+#submit {
+    background-color: royalblue;
+} */
+
+input[type=submit] {
+    background-color: purple;
+    border: 1px solid #ddd;
+    color: white;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: red;
+}
+
+h1,
+h2 {
+    color: aqua;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    box-shadow: 3px 3px 11px #000000;
+    text-align: left;
+}
+
+#parrot {
+    text-align: left;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    box-shadow: 3px 3px 11px #000000;
+}
+
+#paragraph {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    box-shadow: 3px 3px 11px #000000;
+    text-align: right;
+    color: red;
+}
+
+.column1 {
+    /* float: left; */
+    width: 50%;
+}
+
+.column2 {
+    float: right;
+    width: 50%;
+}
+
+.row {
+    /* display: table; */
+    display: flex;
+    flex-direction: row;
+}
+
+.column2 {
+    float: right;
+    width: 50%;
+}
+
+#parrot2 {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    box-shadow: 3px 3px 11px #000000;
+    text-align: left;
+}
+
+#paragraph1,
+#paragraph2,
+#paragraph3,
+#paragraph4,
+#paragraph5,
+#paragraph6,
+#paragraph7 {
+    display: none;
+}
+
+#section2 {
+    color: aqua;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    box-shadow: 3px 3px 11px #000000;
+    text-align: center
+
+}
+header::after {
+ content: "";
+ clear: both;
+ display: table;
+}
+header {
+ background: #F0F3F4;
+}
+ nav {
+ text-align: center;
+}
+
+nav ul {
+ list-style: none;
+ margin: 10px;
+  text-align: center;
+}
+
+nav li {
+ display: inline-block;
+  text-align: center;
+}
+body {
+  background: url(https://pyrotekfx.com/wp-content/uploads/2015/10/contact-us-banner.jpg);
+  /* color:#884EA0; */
+  background-repeat:no-repeat;
+  width:100%;
+  background-position: center;
+  background-size: cover;
+  /* height: 150%; */
+}
+
