@@ -1,12 +1,13 @@
-.container {
-  width: 80%;
-  margin: 0 auto;
+#cont2 {
+  width: 70%;
+  margin: 0 , 0;
+  /* height: 10px; */
+}
+.cont2{
+  width:100%;
 }
 
 #sec1 {
-  background: url(https://www.petsandmoneysummit.com/sites/default/files/styles/cover_image_full/public/event_cover_images/pets_and_money_hero_image_-_minus_guinea.png?itok=JA-jklht);
-  height:830px;
-  /* padding: 350px; */
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -35,10 +36,13 @@ nav {
 
 nav ul {
   list-style: none;
-  margin: 10px ;
+  margin: 10px;
+  justify-content: space-around;
 }
 
 nav li {
+  font-size: 13px;
+  padding: 5px;
   display: inline-block;
 }
 
@@ -49,9 +53,11 @@ nav li {
   font-size: 300%;
   color: #9B59B6;
 }
-.card{
-  width:25%;
+
+.card {
+  width: 25%;
 }
+
 /* .seven img {
   width:20%;
   height: 0%;
@@ -61,18 +67,51 @@ nav li {
   width:5%;
   height: 0%;
 } */
+.d-block {
+  width: 100%;
+}
 
-.row{
-  display:flex;
+.row {
+  display: flex;
   flex-direction: row;
 }
-.card-body{
+
+.card-body {
   text-align: center;
 }
-.image{
-  width:20%;
-  height:20%;
+
+.image {
+  width: 20%;
+  height: 20%;
 }
-h1{
+
+h1 {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
+}
+.cont1{
+margin: 0px, 0px,
+}
+.carousel-caption{
+  font-family: 'Shadows Into Light', cursive;
+  font-size:30px;
+  padding-bottom: 10%;
+}
+.h3-responsive{
+  margin-bottom:20%;
+}
+a:{
+  color: white;
+}
+#talking{
+ width:
+}
+.footer{
+  text-align: center;
+  justify-content:space-around;
+  /* margin:0px; */
+}
+.though{
+  justify-content: space-around;
+  margin: 2%;
+}
