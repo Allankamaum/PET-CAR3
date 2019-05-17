@@ -1,0 +1,174 @@
+/* #cont2 {
+  width: 70%;
+  margin: 0 , 0;
+}
+.cont2{
+  width:100%;
+} */
+
+#sec1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+header {
+  background: #F0F3F4;
+}
+
+.h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #2E46E1;
+}
+
+.heading {
+  text-align: center;
+}
+.nav1 ul li{
+  list-style: none;
+  margin: 10px;
+  justify-content: space-around;
+  text-align: center;
+  font-size: 13px;
+  padding: 5px;
+  display: inline-block;
+  /* text-align: center; */
+
+}
+
+nav {
+text-align: center;
+}
+
+nav ul {
+text-align: center;
+}
+
+nav li {
+text-align: center;
+
+}
+.fanta{
+  align-items: center;
+  width: 10%;
+  height: 10%;
+  border-radius: 100px;
+}
+
+.welcome-txt {
+  padding: 80px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 300%;
+  color: #9B59B6;
+}
+.nav2{
+  display: list-item;
+  text-align: right;
+  margin-right: 50px;
+}
+
+.card {
+  width: 25%;
+}
+.taunt img{
+  justify-content: space-around;
+}
+.copy{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* .seven img {
+  width:20%;
+  height: 0%;
+}
+
+.icon1{
+  width:5%;
+  height: 0%;
+} */
+.d-block {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.image {
+  width: 20%;
+  height: 20%;
+}
+
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  font-size: 2px;
+  color: #2E46E1;
+
+}
+.cont1{
+margin: 0px, 0px,
+}
+#cont2{
+  width: 60%;
+  padding-top: %;
+}
+.carousel-caption{
+  font-family: 'Shadows Into Light', cursive;
+  font-size:30px;
+  padding-bottom: 10%;
+}
+.h3-responsive{
+  margin-bottom:20%;
+}
+a:{
+  color: white;
+}
+#talking{
+ width:
+}
+.footer{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  justify-content:space-around;
+  background-color: #F0F3F4  ;
+  /* margin:0px; */
+}
+.service h1 h3{
+  font-family: 'Shadows Into Light', cursive;
+
+}
+.col-md-4 img{
+  align-items: center;
+
+}
+.para{
+  text-align: center;
+}
+.though{
+  justify-content: space-around;
+  margin: 2%;
+}
+.colage img{
+  width:20%;
+}
+.rounded-circle{
+  width:400px;
+}
+@media query {
+
+}
