@@ -1,25 +1,25 @@
 # PetGuide
 ## Project Description.
 This project is about a website for relaying information on taking care of pets to the user.
-##Collaboratos
+## Collaboratos
 Allan Kamau
 Sonia Wangui
 Ian Mbogo
 Samuel Thige
-##SETUP INSTRUCTIONS
+## SETUP INSTRUCTIONS
 Follow the link to access the program site.[]
-##KNOWN BUGS
+## KNOWN BUGS
 There are no known bugs. In case you do encounter any, please contact us on the details below.
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 1.HTML-Front end layout of the page.
 2.CSS-Styling the page and layout.
-##CONTACT INFORMATION
+## CONTACT INFORMATION
 Allan-akamau41@gmail.com
 Sammy-sammythige26@gmail.com
 Sonia-koisonia99@gmail.com
 Ian-ianthegemini@gmail.com
 
-##LICENSE AND COPYRIGHT
+## LICENSE AND COPYRIGHT
 MIT License
 
 Copyright (c) [2019] [Allan Kamau,Sonia Wangui,Ian Mbogo,Samuel Thige]
