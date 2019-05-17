@@ -200,7 +200,7 @@ nav li {
   text-align: center;
 }
 body {
-  background: url(https://pyrotekfx.com/wp-content/uploads/2015/10/contact-us-banner.jpg);
+  /* background: url(https://pyrotekfx.com/wp-content/uploads/2015/10/contact-us-banner.jpg); */
   /* color:#884EA0; */
   background-repeat:no-repeat;
   width:100%;
@@ -208,4 +208,10 @@ body {
   background-size: cover;
   /* height: 150%; */
 }
+<<<<<<< HEAD
+ .parrot {
+  background-color: white;
+}
+=======
 
+>>>>>>> df16440bf96bd03d67b1088e08e5ed06e5ec8319
