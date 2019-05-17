@@ -165,3 +165,23 @@ h5 {
   height:50px;
 
 }
+header::after {
+ content: "";
+ clear: both;
+ display: table;
+}
+header {
+ background: #F0F3F4;
+}
+nav {
+ text-align: center;
+}
+
+nav ul {
+ list-style: none;
+ margin: 10px;
+}
+
+nav li {
+ display: inline-block;
+}

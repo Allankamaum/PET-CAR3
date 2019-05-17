@@ -1,7 +1,10 @@
 body {
   /* background-image: url("http://www.baltana.com/files/wallpapers-16/4K-Avengers-Endgame-Desktop-HD-Wallpapers-40030.jpg"); */
 }
-
+h1{
+  text-align: center;
+  color: #2E46E1;
+}
 .imgs {
 
   text-align: center;
@@ -43,6 +46,9 @@ p {
   overflow: hidden;
   background-color: black;
   color: red;
+}
+.heading{
+  text-align: center;
 }
 
 .topnav a {
